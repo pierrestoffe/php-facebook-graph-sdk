@@ -1,5 +1,5 @@
 {
-    "name": "pierrestoffe/graph-sdk",
+    "name": "pierrestoffe/php-facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
